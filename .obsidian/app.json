@@ -1,0 +1,10 @@
+{
+  "userIgnoreFilters": [
+    "node_modules/"
+  ],
+  "vimMode": true,
+  "attachmentFolderPath": "images",
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
+}
