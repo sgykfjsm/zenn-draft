@@ -13,6 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "articles/3e6471bb383ec8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c1ebe9f7f430e43",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "99e2c57405a7c099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "articles/cc88c6ed02cb83.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/cc88c6ed02cb83.md",
+                "file": "articles/3e6471bb383ec8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "articles/cc88c6ed02cb83.md",
+                "file": "articles/3e6471bb383ec8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/cc88c6ed02cb83.md"
+                "file": "articles/3e6471bb383ec8.md"
               }
             }
           }
@@ -148,8 +170,10 @@
   },
   "active": "8d2b025dadc0ecf4",
   "lastOpenFiles": [
-    "images/20240627143009.png",
+    "articles/733074391372e9.md",
+    "articles/3e6471bb383ec8.md",
     "articles/cc88c6ed02cb83.md",
+    "images/20240627143009.png",
     "images/20240705023620.png",
     "images",
     "images/20240704181642.png",
