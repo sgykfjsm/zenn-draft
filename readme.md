@@ -14,3 +14,8 @@ $ npx zenn new:article
 created: articles/bf113e5e5d5846.md
 ```
 
+# 記事をプレビューする
+ブログの下書きができたらプレビューしてみる
+```shell
+$ npx zenn preview
+```

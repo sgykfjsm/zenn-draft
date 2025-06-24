@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/bf113e5e5d5846.md",
+                "file": "articles/e21de4444546cd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bf113e5e5d5846"
+              "title": "e21de4444546cd"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/4db4b6bf9e2435.md",
+                "file": "articles/bf113e5e5d5846.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4db4b6bf9e2435"
+              "title": "bf113e5e5d5846"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/bf113e5e5d5846.md",
+                "file": "articles/e21de4444546cd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bf113e5e5d5846"
+              "title": "Outline of e21de4444546cd"
             }
           }
         ],
@@ -197,13 +197,16 @@
   },
   "active": "671cfc92e62aa397",
   "lastOpenFiles": [
-    "articles/4db4b6bf9e2435.md",
-    "articles/bf113e5e5d5846.md",
     "readme.md",
+    "articles/e21de4444546cd.md",
+    "articles/bf113e5e5d5846.md",
+    "articles/4db4b6bf9e2435.md",
+    "node_modules/zenn-cli/dist/client/assets/index-3108c4c5.js",
+    "node_modules/zenn-cli/dist/client/assets/index-dd0ac40a.css",
     "articles/cc88c6ed02cb83.md",
+    "articles/733074391372e9.md",
     "articles/3e6471bb383ec8.md",
     "articles/50355a0886aee8.md",
-    "articles/733074391372e9.md",
     "images/20250509110814.png",
     "node_modules/zenn-cli/dist/client/assets/index-e3c4beda.js",
     "images/20241015172850.png",
