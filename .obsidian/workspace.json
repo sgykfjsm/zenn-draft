@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "articles/b7ad0bb17ca714.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "b7ad0bb17ca714"
+            }
+          },
+          {
+            "id": "149faab8af3ca6f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "readme.md",
                 "mode": "source",
                 "source": false
@@ -22,21 +36,7 @@
             }
           },
           {
-            "id": "671cfc92e62aa397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "articles/e21de4444546cd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "e21de4444546cd"
-            }
-          },
-          {
-            "id": "79c4990b3779dcd6",
+            "id": "54c34320e2ac4c49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +49,7 @@
               "title": "bf113e5e5d5846"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/e21de4444546cd.md",
+                "file": "articles/b7ad0bb17ca714.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of e21de4444546cd"
+              "title": "Outline of b7ad0bb17ca714"
             }
           }
         ],
@@ -195,16 +194,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "671cfc92e62aa397",
+  "active": "245913143fecde6b",
   "lastOpenFiles": [
     "readme.md",
-    "articles/e21de4444546cd.md",
+    "articles/b7ad0bb17ca714.md",
     "articles/bf113e5e5d5846.md",
+    "images/20250819105830.png",
+    "images/Pasted image 20250819105818.png",
+    "images/Pasted image 20250819105746.png",
+    "images/Pasted image 20250819105419.png.sb-5e249dd0-LdfwkY",
+    "images/20250819105419.png",
+    "articles/733074391372e9.md",
+    "node_modules/zenn-cli/dist/client/assets/index-5802422d.js",
+    "node_modules/zenn-cli/dist/client/assets/index-0d529586.css",
+    "articles/0fdd8c5b790d6d.md",
+    "articles/e21de4444546cd.md",
     "articles/4db4b6bf9e2435.md",
     "node_modules/zenn-cli/dist/client/assets/index-3108c4c5.js",
     "node_modules/zenn-cli/dist/client/assets/index-dd0ac40a.css",
     "articles/cc88c6ed02cb83.md",
-    "articles/733074391372e9.md",
     "articles/3e6471bb383ec8.md",
     "articles/50355a0886aee8.md",
     "images/20250509110814.png",
@@ -215,7 +223,6 @@
     "images/20240705023620.png",
     "images",
     "images/20240704181642.png",
-    "images/20240704180310.png",
     "articles/attachment",
     "20240705_troubleshooting_accumulated_tivk_mvcc_versions.md"
   ]
