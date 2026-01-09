@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "245913143fecde6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "articles/b7ad0bb17ca714.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "b7ad0bb17ca714"
-            }
-          },
-          {
             "id": "149faab8af3ca6f8",
             "type": "leaf",
             "state": {
@@ -36,20 +22,35 @@
             }
           },
           {
-            "id": "54c34320e2ac4c49",
+            "id": "f01f2af9d135b640",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/bf113e5e5d5846.md",
+                "file": "articles/804a3591d6ddd4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bf113e5e5d5846"
+              "title": "804a3591d6ddd4"
+            }
+          },
+          {
+            "id": "4af29bcfa9f57a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "articles/4db4b6bf9e2435.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4db4b6bf9e2435"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/b7ad0bb17ca714.md",
+                "file": "articles/804a3591d6ddd4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of b7ad0bb17ca714"
+              "title": "Outline of 804a3591d6ddd4"
             }
           }
         ],
@@ -186,6 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,10 +196,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "245913143fecde6b",
+  "active": "f01f2af9d135b640",
   "lastOpenFiles": [
-    "readme.md",
+    "articles/804a3591d6ddd4_v5.md",
+    "articles/804a3591d6ddd4 copy.md",
+    "articles/804a3591d6ddd4_v4.md",
+    "articles/804a3591d6ddd4_v3.md",
+    "articles/804a3591d6ddd4_v2.md",
+    "tidb_temp_ca_pem.bcxe8Tg6FJbiei3",
+    "tidb_temp_ca_pem.vNBed9NYhA7Ilse",
+    "articles/4db4b6bf9e2435.md",
+    "articles/804a3591d6ddd4.md",
     "articles/b7ad0bb17ca714.md",
+    "readme.md",
     "articles/bf113e5e5d5846.md",
     "images/20250819105830.png",
     "images/Pasted image 20250819105818.png",
@@ -209,7 +220,6 @@
     "node_modules/zenn-cli/dist/client/assets/index-0d529586.css",
     "articles/0fdd8c5b790d6d.md",
     "articles/e21de4444546cd.md",
-    "articles/4db4b6bf9e2435.md",
     "node_modules/zenn-cli/dist/client/assets/index-3108c4c5.js",
     "node_modules/zenn-cli/dist/client/assets/index-dd0ac40a.css",
     "articles/cc88c6ed02cb83.md",
