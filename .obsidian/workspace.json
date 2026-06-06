@@ -11,12 +11,28 @@
             "id": "149faab8af3ca6f8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/SCR-20260212-ovwl.png"
+                "file": "articles/7893b34ac8c960.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "SCR-20260212-ovwl"
+              "icon": "lucide-file",
+              "title": "7893b34ac8c960"
+            }
+          },
+          {
+            "id": "ef5dc3a7cca6105c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "articles/0b241735f781af.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0b241735f781af"
             }
           }
         ]
@@ -76,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "af5b6b66340de8d8",
@@ -138,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/SCR-20260212-ovwl.png",
+                "file": "articles/7893b34ac8c960.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SCR-20260212-ovwl"
+              "title": "Outline of 7893b34ac8c960"
             }
           }
         ],
@@ -167,9 +183,28 @@
   },
   "active": "149faab8af3ca6f8",
   "lastOpenFiles": [
-    "images/SCR-20260212-osjw.png",
     "articles/0b241735f781af.md",
+    "articles/e21de4444546cd.md",
+    "articles/0fdd8c5b790d6d.md",
+    "articles/3e6471bb383ec8.md",
+    "articles/cc88c6ed02cb83.md",
+    "articles/bf113e5e5d5846.md",
+    "articles/b7ad0bb17ca714.md",
+    "articles/733074391372e9.md",
+    "articles/7893b34ac8c960.md",
+    "articles/804a3591d6ddd4.md",
+    "articles/4db4b6bf9e2435.md",
+    "images/P999_WAL_fsync_chart.png",
+    "images/SCR-20260427-nwhf.png",
+    "images/P999_WAL_fsync.png",
+    "images/SCR-20260427-nufz.png",
+    "images/20240704180310.png",
+    "images/20240627143009.png",
+    "images/Pasted image 20260407182447.png",
+    "images/20260407182450.png",
     "readme.md",
+    "images/SCR-20260212-ovwl.png",
+    "images/SCR-20260212-osjw.png",
     "Untitled.base",
     "node_modules/zenn-cli/dist/client/assets/index-BQ449Tiq.js",
     "node_modules/zenn-cli/dist/client/assets/index-bqmoI9Ss.css",
@@ -181,30 +216,12 @@
     "node_modules/package-manager-detector/dist/detect.d.mts",
     "node_modules/package-manager-detector/dist/constants.mjs",
     "node_modules/package-manager-detector/README.md",
-    "images/SCR-20260212-ovwl.png",
-    "images/SCR-20260212-ottx.png",
-    "articles/cc88c6ed02cb83.md",
-    "articles/e21de4444546cd.md",
-    "articles/0fdd8c5b790d6d.md",
-    "articles/4db4b6bf9e2435.md",
-    "articles/804a3591d6ddd4.md",
     "articles/804a3591d6ddd4_v5.md",
     "articles/804a3591d6ddd4 copy.md",
     "articles/804a3591d6ddd4_v4.md",
     "articles/804a3591d6ddd4_v3.md",
     "articles/804a3591d6ddd4_v2.md",
-    "articles/b7ad0bb17ca714.md",
-    "articles/bf113e5e5d5846.md",
-    "images/20250819105830.png",
-    "images/Pasted image 20250819105818.png",
-    "images/Pasted image 20250819105746.png",
-    "images/20250819105419.png",
-    "articles/733074391372e9.md",
-    "articles/3e6471bb383ec8.md",
     "articles/50355a0886aee8.md",
-    "images/20250509110814.png",
-    "images/20241015172850.png",
-    "images/20241015172156.png",
     "20240705_troubleshooting_accumulated_tivk_mvcc_versions.md"
   ]
 }
