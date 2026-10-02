@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Obsidian Nord"
+  "cssTheme": "Obsidian Nord",
+  "textFontFamily": "Hack Nerd Font",
+  "monospaceFontFamily": "Hack Nerd Font Mono"
 }
