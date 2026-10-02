@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "articles/51b095f4831f00.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "51b095f4831f00"
             }
           }
         ]
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md",
+                "file": "articles/51b095f4831f00.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,6 +171,7 @@
   },
   "active": "0aa7ca79f47453f4",
   "lastOpenFiles": [
+    "readme.md",
     "articles/51b095f4831f00.md",
     "2026-09-29.md",
     "().md",
@@ -206,7 +207,6 @@
     "node_modules/undici/docs/docs/api/ProxyAgent.md",
     "node_modules/undici/docs/docs/api/PoolStats.md",
     "node_modules/undici/docs/docs/api/MockErrors.md",
-    "node_modules/undici/docs/docs/api/Pool.md",
     "images/P999_WAL_fsync_chart.png",
     "images/SCR-20260427-nwhf.png",
     "images/P999_WAL_fsync.png",
